@@ -3,6 +3,10 @@ h1 {
     color: #0170FF;
 }
 
+iframe {
+    text-align: center;
+}
+
 body {
   background-color: blue;
 }
