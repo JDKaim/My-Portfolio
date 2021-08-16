@@ -32,10 +32,6 @@ h2 {
     color: #FFFFFF;
 }
 
-.active {
-    border-left: 5px solid #03E4FF;
-}
-
 .footer {
     text-align: center;
     padding: 20px;
